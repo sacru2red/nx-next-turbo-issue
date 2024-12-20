@@ -11,9 +11,9 @@
       "options": {
         "buildTarget": "org:build",
         "dev": true,
-        "port": 3001
-        // if turn on turbo, it will not work
-        // "turbo": true
+        "port": 3001,
+        // if turn on turbo, it will not work (visit http://localhost:3001)
+        "turbo": true
       }
     }
   }
